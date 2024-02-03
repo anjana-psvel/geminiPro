@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv #load env variables
+langchain #read the pdf 
+PyPDF2  #redaing the pdf
+# chromadb
+faiss-cpu
+langchain_google_genai 
